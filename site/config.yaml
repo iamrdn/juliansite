@@ -1,15 +1,15 @@
 
 
-baseURL: "https://julian.is"
-title: "Julian Gaviria — Web Designer"
+baseURL: "https://rdnaidu.com"
+title: "Dhanu N Joy — Java Developer"
 footnoteReturnLinkContents: "↩"
 permalinks:
   articles: /article/:slug/
   article-resources: /article/:slug/resources/
 params:
-  Description: "Hey there, I'm Julian, a designer/developer who enjoys testing everything."
-  AuthorName: "Julian Gaviria"
-  GitHubUser: "juliangav"
+  Description: "Hey there, I'm Dhanu N Joy, a java developer who enjoys testing everything."
+  AuthorName: "Dhanu N Joy"
+  GitHubUser: "iamrdn"
   images: ["/img/julian-signature-blue.jpg"]
 
 taxonomies:
@@ -21,4 +21,4 @@ blackfriday:
 
 social: 
   facebook_app_id: "275156446240779"
-  twitter: "@juliangav"
+  twitter: "@iamrdn_"
